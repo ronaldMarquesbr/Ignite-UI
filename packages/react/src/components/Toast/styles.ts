@@ -11,7 +11,7 @@ export const ToastContainer = styled(RadixToast.Root, {
     flexDirection: 'column',
     gap: '$1',
     backgroundColor: '$gray800',
-    border: 'solid 1px $gray600'
+    border: 'solid 2px $gray600'
 })
 
 export const ToastViewport = styled(RadixToast.Viewport, {
