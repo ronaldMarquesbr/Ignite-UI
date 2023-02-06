@@ -1,5 +1,11 @@
 # @class-ignite-ui/react
 
+## 4.0.0
+
+### Major Changes
+
+- 5797f38: Borda no elemento Toast
+
 ## 3.0.0
 
 ### Major Changes
