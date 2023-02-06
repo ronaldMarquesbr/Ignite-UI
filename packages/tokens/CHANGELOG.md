@@ -1,5 +1,11 @@
 # @class-ignite-ui/tokens
 
+## 2.2.0
+
+### Minor Changes
+
+- Sem branco
+
 ## 2.1.0
 
 ### Minor Changes
