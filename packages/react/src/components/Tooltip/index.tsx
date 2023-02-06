@@ -17,7 +17,7 @@ export function Tooltip({ elementText, buttonTriggerAs, ...props } : TooltipProp
                     {buttonTriggerAs}
                 </RadixTooltip.Trigger>
                 <RadixTooltip.Portal>
-                    <RadixTooltip.Content sideOffset={5} asChild>
+                    <RadixTooltip.Content sideOffset={4} asChild>
                         <TooltipContainer>
                             <Text size={'sm'}css={{fontWeight: '$medium'}}>{elementText}</Text>
                             <RadixTooltip.Arrow/>
