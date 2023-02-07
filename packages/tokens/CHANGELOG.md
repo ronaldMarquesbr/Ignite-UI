@@ -1,13 +1,16 @@
 # @class-ignite-ui/tokens
 
+## 2.3.1
+
+### Patch Changes
+
+- Qualquer coisa
+
 ## 2.3.0
 
 ### Minor Changes
 
-<<<<<<< HEAD
 - Original colors
-=======
->>>>>>> ab35fd90d70a62a3e766187db2f046fd3fa4b670
 - 676d79e: Novo preto
 
 ## 2.2.0
