@@ -1,5 +1,12 @@
 # @class-ignite-ui/tokens
 
+## 2.3.0
+
+### Minor Changes
+
+- Original colors
+- 676d79e: Novo preto
+
 ## 2.2.0
 
 ### Minor Changes
