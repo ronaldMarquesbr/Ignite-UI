@@ -11,7 +11,7 @@ export interface ToastProps extends ComponentProps<typeof RadixToast.Provider> {
     open: boolean
 }
 
-export function Toast({duration, alwaysOpen = false, title, description, ...props}: ToastProps) {
+export function Toast({duration, open = false, title, description, ...props}: ToastProps) {
     return (
         <RadixToast.Provider duration={duration} swipeDirection="right" {...props}>
             <ToastContainer open={open}> 

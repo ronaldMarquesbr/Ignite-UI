@@ -8,7 +8,7 @@ export default {
 
 export const Primary : StoryObj<ToastProps> = {
     args: {
-        alwaysOpen: true,
+        open: true,
         title: 'Agendamento realizado',
         description: 'Quarta-feira, 23 de Outubro às 16h'
     }
