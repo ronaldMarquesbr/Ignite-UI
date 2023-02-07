@@ -8,13 +8,13 @@ export interface ToastProps extends ComponentProps<typeof RadixToast.Provider> {
     title: string
     description: string
     duration: number
-    alwaysOpen: boolean
+    open: boolean
 }
 
 export function Toast({duration, alwaysOpen = false, title, description, ...props}: ToastProps) {
     return (
         <RadixToast.Provider duration={duration} swipeDirection="right" {...props}>
-            <ToastContainer open={alwaysOpen}> 
+            <ToastContainer open={open}> 
                 <GridToast>
                     <Text css={{ fontSize: '$xl', fontWeight: '$bold', color: '$white' }} >{title}</Text>
                     <RadixToast.Close asChild>

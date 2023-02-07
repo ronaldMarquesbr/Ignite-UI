@@ -1,5 +1,11 @@
 # @class-ignite-ui/react
 
+## 4.1.0
+
+### Minor Changes
+
+- Correção de tipagem
+
 ## 4.0.0
 
 ### Major Changes
