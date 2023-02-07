@@ -1,5 +1,11 @@
 # @class-ignite-ui/tokens
 
+## 2.4.0
+
+### Minor Changes
+
+- Cores originais
+
 ## 2.3.1
 
 ### Patch Changes
